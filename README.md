@@ -1,4 +1,5 @@
-# React + TypeScript + Vite
+<p>Projeto feito com o intuito de aprimorar o aprendizado de novas ferramentas e como aplicá-las de forma prática.</p>
+
 
 
 [Visite o projeto no Vercel](https://crudtypescript.vercel.app/)
@@ -9,7 +10,7 @@
   cd crud
   yarn
   yarn dev -->
-
+# React + TypeScript + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
