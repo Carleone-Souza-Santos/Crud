@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+
+[Visite o projeto no Vercel](https://crudtypescript.vercel.app/)
+
   <!--  yarn create vite crud --template react-ts   -->
 
 <!--
