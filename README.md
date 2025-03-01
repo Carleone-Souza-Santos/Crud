@@ -1,12 +1,9 @@
 <h1>CRUD</h1>
-![Descrição da Imagem](assets/)
+
 <p>Projeto feito com o intuito de aprimorar o aprendizado de novas ferramentas e como aplicá-las de forma prática.</p>
 
-
-
-[Visite o projeto no Vercel](https://crudtypescript.vercel.app/)
-
-  <!--  yarn create vite crud --template react-ts   -->
+![Descrição da Imagem](https://github.com/Carleone-Souza-Santos/Crud/raw/main/src/assets/Crud.png)
+<!--  yarn create vite crud --template react-ts   -->
 
 <!--
   cd crud
