@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 5px;
+  border-radius: 13px;
+  padding: 1em 1.2em;
+  background: var(--primary-color);
+  border-bottom: 4px solid var(--color);
+  font-family: 'Arial', sans-serif;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.photo {
+  margin-left: 10px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  padding: 5px;
+  border: 1px solid var(--secondary-color);
+}
