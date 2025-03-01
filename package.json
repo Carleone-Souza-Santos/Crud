@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Projeto CRUD desenvolvido por Carleone Santos",
+  "author": "Carleone Santos",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
